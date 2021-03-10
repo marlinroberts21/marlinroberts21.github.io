@@ -23,12 +23,14 @@ email: marlinroberts21@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place to keep my stuff. If there is an end of the road on the internet, this is it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marlinroberts.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  marlinroberts21
 
 # Build settings
 theme: minima
+#theme: jekyll-theme-midnight
+#theme: midnight
 plugins:
   - jekyll-feed
 
