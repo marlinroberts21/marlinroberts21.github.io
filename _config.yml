@@ -28,9 +28,13 @@ twitter_username: jekyllrb
 github_username:  marlinroberts21
 
 # Build settings
+<<<<<<< HEAD
 theme: minima
 #theme: jekyll-theme-midnight
 #theme: midnight
+=======
+theme: jekyll-theme-slate
+>>>>>>> 51a0d2ddf0978f58585c90f8a8e49074babf1b0f
 plugins:
   - jekyll-feed
 
