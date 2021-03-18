@@ -29,7 +29,7 @@ github_username:  marlinroberts21
 
 # Build settings
 theme: minima
-#theme: jekyll-theme-midnight
+##theme: jekyll-theme-midnight
 #theme: midnight
 plugins:
   - jekyll-feed
@@ -54,3 +54,16 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
     - mjr/
+
+# include:
+
+
+
+
+collections:
+  projects:
+   output: true
+  repositories:
+   output: true
+  how-to:
+   output: true
